@@ -1,4 +1,4 @@
-﻿
+using sysytem
 
 namespace firstUploadeToGit
 {
@@ -6,7 +6,7 @@ namespace firstUploadeToGit
     {
          public static void Main()
         {
-            System.Console.WriteLine("hi there");
+            Console.WriteLine("hi there, I'm better");
         }
     }
 }
