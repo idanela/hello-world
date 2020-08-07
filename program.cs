@@ -1,4 +1,4 @@
-using sysytem
+using system
 
 namespace firstUploadeToGit
 {
